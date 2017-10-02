@@ -10,7 +10,7 @@ def getTrends():
     trends1 = api.trends_place(1)
     return trends1
 
-def getTrendsSpaceSeparated():
+def getTrendNames():
     trends1 = api.trends_place(1)
     data = trends1[0] 
 
