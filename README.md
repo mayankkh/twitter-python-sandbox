@@ -22,10 +22,11 @@ $ flask/bin/pip install tweepy
 Usage
 -----
 * Simple test script to post dummy tweets
-* ./tweetbot.py
+* `./tweetbot.py`
 
 * Simple REST API to query twitter trends
-* ./app.py
-The app runs on 127.0.0.1:5000
+* `./app.py`
+
+* The app runs on 127.0.0.1:5000. If you hit this in the browser you will get list of current twitter trends.
 
 
